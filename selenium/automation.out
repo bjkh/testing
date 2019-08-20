@@ -1,0 +1,8 @@
+2019-08-20 06:08:762 INFO  LoggerTest:21 - log test1
+2019-08-20 06:08:770 INFO  LoggerTest:22 - log test2
+2019-08-20 06:08:771 INFO  LoggerTest:23 - log test3
+2019-08-20 06:08:771 INFO  LoggerTest:24 - log test4
+2019-08-20 06:08:771 INFO  LoggerTest:26 - log testA
+2019-08-20 06:08:772 INFO  LoggerTest:27 - log testB
+2019-08-20 06:08:772 INFO  LoggerTest:28 - log testC
+2019-08-20 06:08:773 INFO  LoggerTest:29 - log testD

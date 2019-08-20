@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3678" started-at="2019-08-20T15:24:49Z" finished-at="2019-08-20T15:24:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3678" started-at="2019-08-20T15:24:49Z" finished-at="2019-08-20T15:24:53Z">
+      <class name="com.selenium.ExtentReport">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.selenium.ExtentReport@c6a292]" name="beforeClass" is-config="true" duration-ms="1544" started-at="2019-08-20T08:24:49Z" finished-at="2019-08-20T08:24:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.selenium.ExtentReport@c6a292]" name="beforeMethod" is-config="true" duration-ms="256" started-at="2019-08-20T08:24:51Z" finished-at="2019-08-20T08:24:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.selenium.ExtentReport.testLogin()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:com.selenium.ExtentReport@c6a292]" name="testLogin" duration-ms="42" started-at="2019-08-20T08:24:51Z" finished-at="2019-08-20T08:24:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.selenium.ExtentReport@c6a292]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-08-20T08:24:51Z" finished-at="2019-08-20T08:24:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testLogin status=SUCCESS method=ExtentReport.testLogin()[pri:0, instance:com.selenium.ExtentReport@c6a292] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.selenium.ExtentReport@c6a292]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-08-20T08:24:51Z" finished-at="2019-08-20T08:24:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.selenium.ExtentReport.testLogout()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testLogout()[pri:0, instance:com.selenium.ExtentReport@c6a292]" name="testLogout" duration-ms="4" started-at="2019-08-20T08:24:51Z" finished-at="2019-08-20T08:24:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogout -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.selenium.ExtentReport@c6a292]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-08-20T08:24:51Z" finished-at="2019-08-20T08:24:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testLogout status=SUCCESS method=ExtentReport.testLogout()[pri:0, instance:com.selenium.ExtentReport@c6a292] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.selenium.ExtentReport@c6a292]" name="afterClass" is-config="true" duration-ms="1648" started-at="2019-08-20T08:24:51Z" finished-at="2019-08-20T08:24:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.selenium.ExtentReport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
